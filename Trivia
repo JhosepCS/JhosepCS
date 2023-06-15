@@ -1,13 +1,4 @@
-/*
-Grupo: Britani Carol,Yacir Daza,Micael Marte,Jhosep Caceres
-Curso: Tercer Semestre Sistemas "A"
-Descripcion del programa: El programa ejecuta un juego de preguntas y respuestas.
-El juego consiste en moverse a traves de un tablero conformado por casillas, cada casilla se corresponde 
-con un tipo de pregunta de acuerdo a una categoria correspondiente. 
-Los jugadores deberan contestar preguntas de cada categoria hasta acumular una cantidad de QUESITOS necesarios 
-para ganar el juego. 
-Una vez acumulados los QUESITOS de cada categoria, el jugador se declara ganador. 
-*/
+
 #include <stdio.h>
 #include <windows.h>
 #include <stdlib.h>
